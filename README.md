@@ -1,4 +1,4 @@
-# Typed Microphone Stream  [![Build Status](https://travis-ci.org/it@github.com:sebastianhaas/typed-microphone-stream.svg?branch=master)](https://travis-ci.org/it@github.com:sebastianhaas/typed-microphone-stream)
+# Typings for microphone-stream  [![Build Status](https://travis-ci.org/sebastianhaas/typed-microphone-stream.svg?branch=master)](https://travis-ci.org/sebastianhaas/typed-microphone-stream)
 
 
 The type definition for [`microphone-stream`](https://github.com/saebekassebil/microphone-stream.git)
