@@ -3,6 +3,11 @@
 
 The type definition for [`microphone-stream`](https://github.com/saebekassebil/microphone-stream.git)
 
+Since this is no proper ES6 module, importing the module only works like this:
+```typescript
+import MicrophoneStream = require("microphone-stream");
+```
+
 ## LICENSE
 
 MIT
